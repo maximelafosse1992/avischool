@@ -63,6 +63,3 @@ Route::get('formationmedecinedouce', function () {
 Route::resource('lieu','lieuController');
 Route::resource('formation','FormationController');
 Route::resource('commentaires','CommentairesControlleur');
-
-
-
